@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Raleway:wght@700&display=swap');
+
+body {
+  	margin: 20px;
+  	background-color: black;
+  	background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(library-image.webp);
+  	background-size: cover;
+	color: white;
+}
+
+#name{
+	list-style: none;
+  	float: left;
+	color: red;
+  	font-weight: 900px;
+  	font-size: 130%; 
+  	font-family: 'Raleway', sans-serif;
+  	cursor: pointer;
+    	transition: font-size 2s;
+}
+
+#logo{
+	width: 30px;
+	vertical-align: middle;
+	
+}
+
+
+#container {
+	text-align: center;
+  	padding-top: 15%;
+}
+
+h1, h3, h5{
+	font-family: 'Raleway', sans-serif;
+	cursor: pointer;
+}
+
+h1:hover{
+	color:red;
+}
+
+h3, h5 {
+	color: grey;
+}
+
+input {
+  	border: none;
+	width: 25%;
+	padding: 20px 30px;
+	margin: 8px 0;
+}
+
+button {
+	background-color: red;
+  	color: white;
+	font-family: 'Raleway', sans-serif;
+  	border: none;
+  	padding: 20px 30px;
+  	text-align: center;
+  	cursor: pointer;
+}
+
+button:hover{
+	background-color: #CAC7C6;
+}
+
+footer{
+	bottom: 0%;
+	right: 0%;
+	color: grey;
+	position: fixed;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 70%;
+	cursor: pointer;
+}
+
+span:hover{
+	color: white;
+}
+
