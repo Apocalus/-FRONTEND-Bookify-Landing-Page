@@ -1,5 +1,5 @@
 # Bookify-Landing-Page
-![alt text]Made with HTML, CSS, JS
+![alt Made with HTML, CSS, JS]
 [[link](https://bookifylandingpage.netlify.app/)]
 
 **Features:**
