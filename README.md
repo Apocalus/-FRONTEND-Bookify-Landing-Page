@@ -1,6 +1,6 @@
 # Bookify-Landing-Page
-<bold>Made with HTML, CSS, JS</bold>
-----> https://bookifylandingpage.netlify.app/
+Made with HTML, CSS, JS
+[[link](https://bookifylandingpage.netlify.app/)]
 
 Features:
 - Enter email
