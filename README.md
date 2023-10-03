@@ -4,4 +4,4 @@ Made with HTML, CSS, JS
 
 Features:
 - Enter email
-- Check if the given email is valid or not
+- Checks if the given email is valid or not
