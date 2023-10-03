@@ -1,4 +1,4 @@
-This project was made with **HTML, CSS and JS**
+This project was made with `HTML, CSS and JS`
 
 ## `Live Demo`
 [[link](https://bookifylandingpage.netlify.app/)]
