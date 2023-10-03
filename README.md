@@ -1,7 +1,7 @@
 This project was made with ``HTML, CSS and JS``
 
 ## `Live Demo`
-[[link](https://bookifylandingpage.netlify.app/)]
+[[Live Demo](https://bookifylandingpage.netlify.app/)]
 
 ### **Features:**
 - Enter email
