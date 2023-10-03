@@ -1,8 +1,7 @@
 This project was made with ``HTML, CSS and JS``
 
-## `Live Demo`
 [[Live Demo](https://bookifylandingpage.netlify.app/)]
 
-### **Features:**
+### `Features:`
 - Enter email
 - Checks if the given email is valid or not
